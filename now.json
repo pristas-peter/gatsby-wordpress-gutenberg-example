@@ -1,0 +1,36 @@
+{
+  "routes": [
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/pokladna/",
+      "dest": "https://ba3d3459.pjurbeauty.sk"
+    },
+    {
+      "src": "/graphql/",
+      "dest": "https://ba3d3459.pjurbeauty.sk"
+    },
+    {
+      "src": "/pokladna",
+      "dest": "https://ba3d3459.pjurbeauty.sk"
+    },
+    {
+      "src": "/graphql",
+      "dest": "https://ba3d3459.pjurbeauty.sk"
+    },
+    {
+      "src": "/wp.*",
+      "dest": "https://ba3d3459.pjurbeauty.sk"
+    },
+    {
+      "src": "/?wc-ajax",
+      "dest": "https://ba3d3459.pjurbeauty.sk"
+    },
+    {
+      "src": "/(.*)",
+      "methods": ["POST"],
+      "dest": "https://ba3d3459.pjurbeauty.sk"
+    }
+  ]
+}
