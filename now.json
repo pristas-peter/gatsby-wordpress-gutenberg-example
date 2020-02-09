@@ -9,6 +9,9 @@
     }, {
       "src": "/proxy2/",
       "dest": "https://postman-echo.com/get"
+    },  {
+      "src": "/proxy3/",
+      "dest": "https://yeg.pjurbeauty.sk/headers.php"
     }
   ]
 }
