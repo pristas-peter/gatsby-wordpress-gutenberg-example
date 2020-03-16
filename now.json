@@ -5,7 +5,7 @@
     },
     {
       "src": "/proxy/",
-      "dest": "https://pjurbeauty.sk/headers.php"
+      "dest": "https://ws.pjurbeauty.sk/headers.php"
     }, {
       "src": "/proxy2/",
       "dest": "https://postman-echo.com/get"
