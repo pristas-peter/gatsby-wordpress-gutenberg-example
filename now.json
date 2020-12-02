@@ -5,13 +5,13 @@
     },
     {
       "src": "/proxy/",
-      "dest": "https://ws.pjurbeauty.sk/headers.php"
+      "dest": "https://api.pjurbeauty.sk/test.php"
     }, {
       "src": "/proxy2/",
       "dest": "https://postman-echo.com/get"
     },  {
       "src": "/proxy3/",
-      "dest": "https://yeg.pjurbeauty.sk/headers.php"
+      "dest": "https://master.pjurbeauty.sk/test.php"
     }
   ]
 }
